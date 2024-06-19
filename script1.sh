@@ -4,9 +4,7 @@ echo "Happy weekend"
 echo "We are learning git"
 echo "Husband: I don't want to travel"
 echo "Wife: I want to travel"
-echo "hello let's travel lonavala"
-echo "what you say"
-echo "no, let's travel matheran"
-echo "no, will go no we will go matheran next week"
-
+echo "let's travel usa"
+echo "ok done"
+echo "will travel lonavala this week"
 
